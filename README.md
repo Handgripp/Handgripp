@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil Malkowski</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">🚀 A passionate backend developer from Poland 🇵🇱</h3>
+<h3 align="center">👨‍💻 Specializing in Python development with expertise in Django, Flask, FastAPI and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handgripp&label=Profile%20views&color=0e75b6&style=flat" alt="handgripp" /> </p>
 
